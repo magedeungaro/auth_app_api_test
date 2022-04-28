@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tutorial by: https://www.youtube.com/playlist?list=PLgYiyoyNPrv_yNp5Pzsx0A3gQ8-tfg66j
 
-Things you may want to cover:
+Testing authentication with cookies.
 
-* Ruby version
+## Running the project locally
 
-* System dependencies
+Run ```$ rails db:create db:migrate``` to create the database and run migrations
 
-* Configuration
+Then start the server with ``` rails s ```
 
-* Database creation
+The project will be available at ``` localhost:3000 ```
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## testing with Postman
